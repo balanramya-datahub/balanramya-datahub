@@ -1,6 +1,6 @@
 **Hi, I'm Ramya balamurugan**
 
-BCOM Student | Aspiring Data Analyst  
+BCOM Student | Aspiring Data Analyst | Data associate | Data Annotation
 Passionate about Data Analysis and Visualization  
 
 **Skills**
@@ -8,10 +8,11 @@ Passionate about Data Analysis and Visualization
 - SQL (Queries, Joins, Aggregations)  
 - Python (Pandas, NumPy, Data Analysis)  
 - Power BI (Dashboards & Visualization)  
-- MS Word & PowerPoint (Documentation & Presentation) 
+- MS Word and PowerPoint (Documentation and Presentation)
 
 **Projects**
-- Amazon Data Analysis Project
+- amazon-product-sentiment-annotation
+- Telecom Customer Churn Analysis 
 
 **Connect with me**
 - LinkedIn: https://www.linkedin.com/in/ramya-balan-92b768293
