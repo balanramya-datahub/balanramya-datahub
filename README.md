@@ -17,4 +17,4 @@ Passionate about Data Analysis and Visualization
 **Connect with me**
 - LinkedIn: https://www.linkedin.com/in/ramya-balan-92b768293
 - GitHub: https://github.com/balanramya-datahub
-- Visit my portfolio :  https://thin-coral-dp1ggqho.edgeone.app
+- Visit my portfolio : https://ramya-portfolio-link.netlify.app
