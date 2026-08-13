@@ -12,7 +12,8 @@ Passionate about Data Analysis and Visualization
 
 **Projects**
 - amazon-product-sentiment-annotation
-- Telecom Customer Churn Analysis 
+- Telecom Customer Churn Analysis
+- Amazon Sales analysis
 
 **Connect with me**
 - LinkedIn: https://www.linkedin.com/in/ramya-balan-92b768293
